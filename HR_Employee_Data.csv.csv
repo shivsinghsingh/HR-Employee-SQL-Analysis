@@ -1,0 +1,500 @@
+EMP0001,Aarav Verma,Male,29,Sales,Sales Manager,Jaipur,2024-04-04,37500.00,Excellent,Active
+EMP0002,Meera Patel,Male,26,HR,HR Executive,Delhi,2018-06-14,26000.00,Good,Active
+EMP0003,Shivani Gupta,Male,49,Customer Support,Customer Service Representative,Mumbai,2022-08-10,33500.00,Average,Active
+EMP0004,Rahul Patel,Male,30,Operations,Process Associate,Pune,2018-05-31,48000.00,Average,Active
+EMP0005,Arjun Mehta,Female,23,Operations,Process Associate,Bengaluru,2024-03-07,27000.00,Outstanding,Active
+EMP0006,Aditya Jain,Female,57,Marketing,Content Executive,Hyderabad,2018-02-26,31000.00,Excellent,Active
+EMP0007,Karan Singh,Male,45,Sales,Sales Executive,Chennai,2019-02-12,50500.00,Outstanding,Active
+EMP0008,Rahul Mehta,Female,38,Operations,Operations Manager,Kolkata,2023-11-14,39000.00,Excellent,Active
+EMP0009,Shivani Gupta,Male,45,Finance,Accounts Manager,Ahmedabad,2019-01-10,32000.00,Good,Active
+EMP0010,Suresh Sharma,Male,38,Operations,Supply Chain Executive,Lucknow,2016-09-28,36500.00,Good,Active
+EMP0011,Amit Yadav,Female,30,Customer Support,Support Manager,Jaipur,2018-12-20,20000.00,Good,Active
+EMP0012,Meera Patel,Female,35,Customer Support,Team Lead,Delhi,2017-07-20,20000.00,Outstanding,Active
+EMP0013,Arjun Kumar,Male,25,Finance,Accounts Manager,Mumbai,2020-04-25,40500.00,Outstanding,Active
+EMP0014,Riya Verma,Female,55,HR,HR Executive,Pune,2024-06-02,18000.00,Average,Active
+EMP0015,Arjun Verma,Female,50,Customer Support,Customer Service Representative,Bengaluru,2016-01-14,18000.00,Average,Inactive
+EMP0016,Riya Singh,Male,30,Marketing,Digital Marketing Specialist,Hyderabad,2020-03-11,27000.00,Good,Active
+EMP0017,Aisha Mehta,Male,28,Admin,Admin Executive,Chennai,2026-06-02,18000.00,Average,Active
+EMP0018,Suresh Sharma,Female,26,Sales,Sales Executive,Kolkata,2024-03-16,35500.00,Outstanding,Active
+EMP0019,Rohan Yadav,Male,54,Finance,Finance Executive,Ahmedabad,2025-10-13,27000.00,Outstanding,Inactive
+EMP0020,Karan Patel,Male,54,Operations,Supply Chain Executive,Lucknow,2021-01-23,18000.00,Excellent,Active
+EMP0021,Priya Sharma,Male,21,Sales,Sales Manager,Jaipur,2016-10-17,49500.00,Excellent,Active
+EMP0022,Priya Singh,Male,52,Sales,Business Development Executive,Delhi,2018-05-27,29000.00,Good,Active
+EMP0023,Suresh Yadav,Female,27,Customer Support,Customer Service Representative,Mumbai,2017-02-01,26500.00,Outstanding,Active
+EMP0024,Kavya Sharma,Female,46,IT,Software Engineer,Pune,2024-03-01,24500.00,Average,Active
+EMP0025,Suresh Gupta,Male,29,Sales,Sales Associate,Bengaluru,2020-09-24,25000.00,Good,Active
+EMP0026,Aditya Yadav,Male,55,IT,Software Engineer,Hyderabad,2025-05-17,43000.00,Excellent,Inactive
+EMP0027,Rahul Patel,Male,34,Admin,Facilities Coordinator,Chennai,2025-09-11,18000.00,Outstanding,Active
+EMP0028,Neha Sharma,Male,50,Customer Support,Team Lead,Kolkata,2019-03-14,30500.00,Outstanding,Active
+EMP0029,Rohan Gupta,Female,24,Marketing,Digital Marketing Specialist,Ahmedabad,2022-06-30,26500.00,Excellent,Active
+EMP0030,Vivaan Khan,Male,24,Admin,Office Assistant,Lucknow,2021-09-11,21000.00,Excellent,Active
+EMP0031,Aisha Singh,Male,28,Sales,Sales Associate,Jaipur,2026-07-23,24500.00,Good,Active
+EMP0032,Aisha Singh,Male,37,Customer Support,Team Lead,Delhi,2018-04-16,48000.00,Average,Active
+EMP0033,Rohan Verma,Female,25,Admin,Administrative Officer,Mumbai,2016-02-08,24500.00,Outstanding,Active
+EMP0034,Aditya Jain,Male,29,Sales,Business Development Executive,Pune,2026-06-19,19000.00,Average,Active
+EMP0035,Pooja Verma,Male,55,Finance,Accounts Manager,Bengaluru,2023-11-21,47500.00,Average,Active
+EMP0036,Shivani Verma,Male,37,IT,Data Analyst,Hyderabad,2017-04-17,27000.00,Excellent,Active
+EMP0037,Raj Verma,Male,34,Sales,Business Development Executive,Chennai,2023-09-16,34500.00,Average,Active
+EMP0038,Vivaan Singh,Female,23,Customer Support,Team Lead,Kolkata,2016-01-15,18000.00,Average,Active
+EMP0039,Rahul Yadav,Female,28,Customer Support,Customer Support Executive,Ahmedabad,2016-11-04,18000.00,Good,Active
+EMP0040,Meera Jain,Female,29,Finance,Accounts Manager,Lucknow,2016-06-20,40000.00,Average,Active
+EMP0041,Pooja Gupta,Male,43,Sales,Sales Executive,Jaipur,2024-09-30,40500.00,Outstanding,Inactive
+EMP0042,Suresh Kumar,Male,22,Finance,Accounts Manager,Delhi,2018-01-04,40000.00,Average,Active
+EMP0043,Suresh Verma,Female,45,Finance,Accountant,Mumbai,2025-10-12,36500.00,Excellent,Active
+EMP0044,Amit Yadav,Male,35,Operations,Process Associate,Pune,2018-07-02,26000.00,Excellent,Active
+EMP0045,Priya Verma,Female,43,IT,System Administrator,Bengaluru,2023-03-12,24000.00,Outstanding,Active
+EMP0046,Aarav Singh,Female,58,Marketing,Digital Marketing Specialist,Hyderabad,2018-12-23,25000.00,Excellent,Active
+EMP0047,Pooja Mehta,Female,45,Customer Support,Customer Support Executive,Chennai,2026-02-01,20000.00,Good,Active
+EMP0048,Aarav Jain,Female,48,Sales,Business Development Executive,Kolkata,2016-10-13,44500.00,Average,Active
+EMP0049,Karan Jain,Male,41,Marketing,Marketing Manager,Ahmedabad,2020-07-06,38000.00,Average,Active
+EMP0050,Anjali Patel,Male,46,Finance,Finance Executive,Lucknow,2022-02-22,18000.00,Excellent,Active
+EMP0051,Anjali Khan,Male,49,Operations,Supply Chain Executive,Jaipur,2020-12-16,33500.00,Good,Active
+EMP0052,Aditya Verma,Male,36,Operations,Operations Executive,Delhi,2023-07-18,25000.00,Average,Active
+EMP0053,Rohan Sharma,Male,51,HR,Recruiter,Mumbai,2022-11-08,19500.00,Excellent,Active
+EMP0054,Neha Yadav,Male,30,Customer Support,Customer Service Representative,Pune,2023-05-11,33000.00,Excellent,Active
+EMP0055,Anjali Gupta,Male,24,Finance,Accounts Manager,Bengaluru,2022-04-02,50000.00,Good,Active
+EMP0056,Kavya Kumar,Male,49,Admin,Administrative Officer,Hyderabad,2022-11-14,36000.00,Outstanding,Active
+EMP0057,Rahul Yadav,Female,36,Admin,Administrative Officer,Chennai,2025-06-02,18000.00,Average,Active
+EMP0058,Suresh Verma,Female,39,Admin,Admin Executive,Kolkata,2018-08-18,21000.00,Average,Active
+EMP0059,Rohan Kumar,Male,30,Sales,Sales Associate,Ahmedabad,2023-12-03,35500.00,Good,Active
+EMP0060,Priya Jain,Female,24,Admin,Facilities Coordinator,Lucknow,2018-04-27,36500.00,Outstanding,Active
+EMP0061,Meera Patel,Male,43,Admin,Admin Executive,Jaipur,2019-05-08,19000.00,Outstanding,Active
+EMP0062,Shivani Jain,Female,35,Sales,Sales Associate,Delhi,2019-01-22,29500.00,Outstanding,Active
+EMP0063,Priya Patel,Female,29,Finance,Accounts Manager,Mumbai,2022-12-23,24500.00,Excellent,Active
+EMP0064,Aditya Patel,Male,32,Finance,Accounts Manager,Pune,2016-07-24,23500.00,Average,Active
+EMP0065,Kavya Mehta,Male,38,Operations,Supply Chain Executive,Bengaluru,2024-06-07,39500.00,Outstanding,Active
+EMP0066,Sneha Sharma,Male,35,HR,HR Manager,Hyderabad,2023-04-16,44000.00,Excellent,Active
+EMP0067,Aarav Gupta,Male,30,Sales,Sales Executive,Chennai,2018-09-04,31000.00,Good,Active
+EMP0068,Meera Gupta,Male,44,Admin,Administrative Officer,Kolkata,2017-11-18,37000.00,Excellent,Active
+EMP0069,Karan Singh,Male,57,HR,HR Manager,Ahmedabad,2023-08-06,32000.00,Outstanding,Active
+EMP0070,Aditya Khan,Male,40,Sales,Sales Executive,Lucknow,2025-07-14,24000.00,Excellent,Active
+EMP0071,Pooja Jain,Male,25,Customer Support,Team Lead,Jaipur,2021-09-03,30000.00,Average,Active
+EMP0072,Sneha Singh,Female,50,Customer Support,Team Lead,Delhi,2023-12-07,44000.00,Good,Active
+EMP0073,Aisha Jain,Female,48,Admin,Facilities Coordinator,Mumbai,2025-04-05,24500.00,Average,Active
+EMP0074,Aditya Verma,Male,50,Admin,Office Assistant,Pune,2022-05-23,43500.00,Outstanding,Active
+EMP0075,Priya Kumar,Female,43,Admin,Office Assistant,Bengaluru,2024-12-11,18000.00,Average,Active
+EMP0076,Shivani Sharma,Female,36,Sales,Sales Executive,Hyderabad,2024-01-28,41500.00,Outstanding,Active
+EMP0077,Sneha Yadav,Male,26,Admin,Admin Executive,Chennai,2019-04-20,26000.00,Good,Active
+EMP0078,Karan Khan,Male,56,Operations,Supply Chain Executive,Kolkata,2021-12-14,26000.00,Average,Active
+EMP0079,Pooja Yadav,Female,37,Marketing,Content Executive,Ahmedabad,2018-08-02,35000.00,Excellent,Active
+EMP0080,Arjun Jain,Female,34,Finance,Financial Analyst,Lucknow,2024-04-13,18000.00,Outstanding,Active
+EMP0081,Arjun Gupta,Female,44,Marketing,Digital Marketing Specialist,Jaipur,2018-01-04,31000.00,Average,Active
+EMP0082,Raj Sharma,Male,29,HR,HR Manager,Delhi,2023-02-25,32000.00,Outstanding,Active
+EMP0083,Meera Verma,Male,49,Admin,Facilities Coordinator,Mumbai,2019-10-27,42500.00,Good,Inactive
+EMP0084,Sneha Singh,Female,52,IT,IT Support,Pune,2016-10-30,35500.00,Excellent,Active
+EMP0085,Aditya Gupta,Female,35,IT,IT Support,Bengaluru,2024-09-12,32000.00,Outstanding,Active
+EMP0086,Karan Khan,Female,57,Customer Support,Team Lead,Hyderabad,2022-12-18,19500.00,Excellent,Active
+EMP0087,Amit Gupta,Male,31,Marketing,Marketing Executive,Chennai,2018-09-09,44500.00,Good,Active
+EMP0088,Aarav Patel,Male,39,Admin,Facilities Coordinator,Kolkata,2016-05-13,28500.00,Good,Active
+EMP0089,Kavya Singh,Female,58,Sales,Business Development Executive,Ahmedabad,2023-06-01,25500.00,Good,Active
+EMP0090,Rohan Verma,Male,24,Finance,Accountant,Lucknow,2017-11-10,44000.00,Average,Active
+EMP0091,Kavya Singh,Female,46,Admin,Administrative Officer,Jaipur,2026-07-28,26000.00,Average,Active
+EMP0092,Kavya Singh,Female,41,HR,Payroll Executive,Delhi,2022-10-08,39500.00,Average,Active
+EMP0093,Meera Khan,Male,57,HR,HR Manager,Mumbai,2016-06-13,19500.00,Good,Active
+EMP0094,Raj Kumar,Female,26,Customer Support,Support Manager,Pune,2021-04-09,22000.00,Average,Active
+EMP0095,Arjun Kumar,Female,52,Operations,Supply Chain Executive,Bengaluru,2019-03-26,25000.00,Outstanding,Active
+EMP0096,Kavya Singh,Male,41,Operations,Process Associate,Hyderabad,2017-04-19,18000.00,Outstanding,Active
+EMP0097,Shivani Yadav,Male,33,Customer Support,Customer Support Executive,Chennai,2021-10-24,29500.00,Average,Active
+EMP0098,Kavya Sharma,Female,56,Sales,Business Development Executive,Kolkata,2017-06-20,35000.00,Average,Active
+EMP0099,Arjun Sharma,Female,40,Sales,Sales Manager,Ahmedabad,2022-03-06,32000.00,Excellent,Active
+EMP0100,Suresh Singh,Male,30,Admin,Admin Executive,Lucknow,2021-08-03,22000.00,Average,Active
+EMP0101,Anjali Yadav,Female,50,Admin,Office Assistant,Jaipur,2022-03-07,18000.00,Good,Active
+EMP0102,Aditya Verma,Male,53,Customer Support,Team Lead,Delhi,2018-12-30,20500.00,Excellent,Active
+EMP0103,Meera Khan,Female,49,Admin,Office Assistant,Mumbai,2022-01-15,20500.00,Outstanding,Active
+EMP0104,Kavya Mehta,Female,57,Sales,Sales Manager,Pune,2020-04-17,22000.00,Good,Active
+EMP0105,Vivaan Mehta,Female,45,Admin,Facilities Coordinator,Bengaluru,2023-06-11,23000.00,Good,Active
+EMP0106,Rohan Jain,Male,49,Operations,Operations Executive,Hyderabad,2017-02-12,34500.00,Outstanding,Active
+EMP0107,Anjali Kumar,Male,37,IT,IT Support,Chennai,2019-10-18,64500.00,Outstanding,Active
+EMP0108,Shivani Patel,Female,55,Operations,Supply Chain Executive,Kolkata,2016-05-27,32000.00,Excellent,Active
+EMP0109,Suresh Singh,Female,27,Customer Support,Customer Support Executive,Ahmedabad,2020-12-22,29000.00,Good,Active
+EMP0110,Vivaan Mehta,Male,43,HR,HR Manager,Lucknow,2020-03-15,27000.00,Outstanding,Active
+EMP0111,Meera Kumar,Female,26,Finance,Financial Analyst,Jaipur,2022-11-01,18000.00,Outstanding,Active
+EMP0112,Sneha Khan,Male,50,Finance,Financial Analyst,Delhi,2023-02-25,37500.00,Average,Active
+EMP0113,Kavya Verma,Male,49,Finance,Accountant,Mumbai,2019-11-16,38500.00,Average,Active
+EMP0114,Raj Yadav,Female,45,Marketing,Digital Marketing Specialist,Pune,2025-07-27,63500.00,Outstanding,Active
+EMP0115,Meera Mehta,Female,22,Marketing,Content Executive,Bengaluru,2025-04-22,31500.00,Outstanding,Active
+EMP0116,Aisha Yadav,Male,43,Marketing,Digital Marketing Specialist,Hyderabad,2018-06-16,37500.00,Good,Active
+EMP0117,Arjun Sharma,Male,23,Marketing,Marketing Manager,Chennai,2022-07-01,33500.00,Average,Active
+EMP0118,Karan Mehta,Male,33,Customer Support,Customer Service Representative,Kolkata,2017-06-25,18000.00,Average,Active
+EMP0119,Rahul Verma,Female,42,Admin,Administrative Officer,Ahmedabad,2025-01-07,38500.00,Excellent,Active
+EMP0120,Rohan Gupta,Male,26,Customer Support,Team Lead,Lucknow,2024-11-12,35000.00,Outstanding,Active
+EMP0121,Kavya Mehta,Male,44,Marketing,Marketing Manager,Jaipur,2017-03-19,43000.00,Good,Active
+EMP0122,Aisha Gupta,Female,40,IT,IT Support,Delhi,2023-04-13,31000.00,Outstanding,Active
+EMP0123,Vivaan Verma,Male,27,Admin,Admin Executive,Mumbai,2018-08-19,41500.00,Good,Active
+EMP0124,Shivani Patel,Female,27,Finance,Accounts Manager,Pune,2025-05-07,21000.00,Outstanding,Active
+EMP0125,Vivaan Mehta,Female,49,Sales,Sales Associate,Bengaluru,2018-08-25,39000.00,Average,Active
+EMP0126,Shivani Mehta,Female,38,HR,Payroll Executive,Hyderabad,2018-02-16,54000.00,Excellent,Inactive
+EMP0127,Aditya Gupta,Female,42,HR,HR Executive,Chennai,2018-09-24,18000.00,Good,Active
+EMP0128,Aditya Jain,Male,35,Sales,Sales Manager,Kolkata,2019-09-07,25000.00,Good,Active
+EMP0129,Raj Kumar,Male,32,Finance,Finance Executive,Ahmedabad,2017-03-26,39000.00,Excellent,Active
+EMP0130,Suresh Khan,Female,32,Operations,Operations Executive,Lucknow,2018-12-22,23500.00,Excellent,Active
+EMP0131,Riya Singh,Female,49,IT,IT Support,Jaipur,2024-09-21,23000.00,Average,Active
+EMP0132,Kavya Jain,Male,54,Sales,Sales Executive,Delhi,2019-05-20,32500.00,Outstanding,Active
+EMP0133,Vivaan Yadav,Male,27,Customer Support,Support Manager,Mumbai,2021-07-01,18000.00,Outstanding,Active
+EMP0134,Priya Khan,Male,29,Finance,Accountant,Pune,2019-01-31,43500.00,Average,Active
+EMP0135,Kavya Jain,Female,28,Customer Support,Customer Support Executive,Bengaluru,2025-07-25,18000.00,Good,Active
+EMP0136,Anjali Mehta,Male,47,Admin,Facilities Coordinator,Hyderabad,2024-03-07,43500.00,Excellent,Active
+EMP0137,Raj Mehta,Female,25,Finance,Accounts Manager,Chennai,2017-01-08,28500.00,Excellent,Active
+EMP0138,Pooja Kumar,Male,28,HR,HR Manager,Kolkata,2020-08-09,24000.00,Average,Active
+EMP0139,Vivaan Verma,Female,27,Marketing,Content Executive,Ahmedabad,2022-06-25,43500.00,Good,Active
+EMP0140,Suresh Singh,Female,28,Operations,Process Associate,Lucknow,2024-07-20,18000.00,Average,Active
+EMP0141,Shivani Khan,Female,22,HR,HR Manager,Jaipur,2018-01-08,30500.00,Average,Active
+EMP0142,Priya Mehta,Female,30,HR,Recruiter,Delhi,2022-05-08,43500.00,Outstanding,Active
+EMP0143,Aditya Jain,Male,47,Sales,Sales Associate,Mumbai,2021-02-01,18000.00,Average,Active
+EMP0144,Priya Khan,Female,30,IT,Software Engineer,Pune,2017-10-06,44000.00,Excellent,Active
+EMP0145,Kavya Patel,Female,47,Admin,Facilities Coordinator,Bengaluru,2019-01-23,28000.00,Good,Active
+EMP0146,Pooja Patel,Male,58,IT,System Administrator,Hyderabad,2021-06-16,51000.00,Average,Active
+EMP0147,Aisha Sharma,Female,40,HR,Recruiter,Chennai,2018-05-15,18000.00,Good,Active
+EMP0148,Priya Singh,Female,48,HR,Payroll Executive,Kolkata,2017-12-20,18000.00,Good,Active
+EMP0149,Riya Jain,Male,46,Operations,Operations Executive,Ahmedabad,2025-08-30,36000.00,Excellent,Active
+EMP0150,Aditya Mehta,Female,47,Customer Support,Support Manager,Lucknow,2019-03-31,29500.00,Excellent,Active
+EMP0151,Rahul Khan,Female,26,Admin,Administrative Officer,Jaipur,2020-11-23,28000.00,Excellent,Active
+EMP0152,Riya Singh,Female,42,Customer Support,Team Lead,Delhi,2018-06-26,30000.00,Average,Active
+EMP0153,Riya Singh,Male,43,Sales,Business Development Executive,Mumbai,2024-02-27,23500.00,Good,Active
+EMP0154,Raj Gupta,Male,25,Finance,Financial Analyst,Pune,2017-12-26,40500.00,Outstanding,Active
+EMP0155,Meera Khan,Female,30,Operations,Process Associate,Bengaluru,2020-12-06,33500.00,Excellent,Active
+EMP0156,Raj Khan,Female,53,HR,HR Manager,Hyderabad,2016-10-30,19000.00,Average,Active
+EMP0157,Vivaan Mehta,Male,26,Marketing,Marketing Executive,Chennai,2022-11-24,56000.00,Outstanding,Active
+EMP0158,Kavya Khan,Male,51,Sales,Business Development Executive,Kolkata,2021-08-15,37500.00,Good,Inactive
+EMP0159,Arjun Mehta,Female,23,IT,Data Analyst,Ahmedabad,2018-10-11,27500.00,Outstanding,Inactive
+EMP0160,Pooja Mehta,Male,47,Marketing,Marketing Manager,Lucknow,2024-09-07,41500.00,Average,Active
+EMP0161,Priya Singh,Male,56,Operations,Operations Executive,Jaipur,2023-08-10,18000.00,Outstanding,Active
+EMP0162,Priya Singh,Male,40,Finance,Finance Executive,Delhi,2023-05-11,47000.00,Outstanding,Active
+EMP0163,Karan Jain,Male,29,Customer Support,Team Lead,Mumbai,2023-07-07,39500.00,Excellent,Active
+EMP0164,Riya Mehta,Female,40,HR,HR Manager,Pune,2018-01-08,18000.00,Good,Active
+EMP0165,Amit Gupta,Female,25,Finance,Financial Analyst,Bengaluru,2019-04-26,49500.00,Excellent,Active
+EMP0166,Priya Khan,Male,30,Finance,Accounts Manager,Hyderabad,2017-10-26,42500.00,Good,Active
+EMP0167,Kavya Sharma,Male,36,Customer Support,Team Lead,Chennai,2020-12-24,35500.00,Average,Active
+EMP0168,Suresh Jain,Female,51,Sales,Business Development Executive,Kolkata,2026-02-19,54500.00,Good,Active
+EMP0169,Kavya Verma,Female,31,Customer Support,Support Manager,Ahmedabad,2025-02-27,23000.00,Good,Active
+EMP0170,Raj Sharma,Male,56,Admin,Administrative Officer,Lucknow,2026-06-23,18000.00,Excellent,Active
+EMP0171,Karan Singh,Male,49,Finance,Finance Executive,Jaipur,2026-02-25,27000.00,Good,Active
+EMP0172,Suresh Yadav,Male,47,Operations,Operations Executive,Delhi,2016-08-06,20000.00,Outstanding,Active
+EMP0173,Neha Singh,Male,22,Operations,Operations Manager,Mumbai,2019-07-29,29000.00,Excellent,Active
+EMP0174,Rohan Kumar,Female,51,HR,HR Manager,Pune,2023-10-22,32000.00,Good,Active
+EMP0175,Kavya Khan,Female,22,HR,HR Executive,Bengaluru,2018-11-14,31000.00,Good,Active
+EMP0176,Arjun Verma,Female,28,Sales,Business Development Executive,Hyderabad,2016-07-14,41500.00,Good,Active
+EMP0177,Aditya Singh,Female,53,Admin,Admin Executive,Chennai,2022-06-13,25000.00,Good,Active
+EMP0178,Anjali Sharma,Female,57,Operations,Operations Manager,Kolkata,2020-09-02,47000.00,Good,Active
+EMP0179,Riya Mehta,Male,45,IT,Software Engineer,Ahmedabad,2025-10-17,38500.00,Outstanding,Active
+EMP0180,Pooja Verma,Female,25,HR,HR Manager,Lucknow,2019-11-13,60500.00,Good,Active
+EMP0181,Meera Mehta,Male,43,Finance,Accountant,Jaipur,2022-02-14,45500.00,Average,Active
+EMP0182,Kavya Yadav,Male,25,Finance,Financial Analyst,Delhi,2024-01-11,27500.00,Outstanding,Active
+EMP0183,Vivaan Gupta,Male,40,HR,HR Manager,Mumbai,2021-10-12,18000.00,Outstanding,Inactive
+EMP0184,Raj Sharma,Female,43,Sales,Business Development Executive,Pune,2025-09-01,37500.00,Excellent,Active
+EMP0185,Raj Singh,Female,46,Operations,Supply Chain Executive,Bengaluru,2024-05-02,27000.00,Outstanding,Active
+EMP0186,Priya Kumar,Female,44,Admin,Facilities Coordinator,Hyderabad,2026-05-13,33500.00,Average,Active
+EMP0187,Aditya Patel,Female,41,Finance,Finance Executive,Chennai,2017-02-24,43500.00,Excellent,Active
+EMP0188,Karan Yadav,Female,49,Customer Support,Customer Service Representative,Kolkata,2019-12-10,25000.00,Outstanding,Active
+EMP0189,Aisha Patel,Female,25,Marketing,Marketing Executive,Ahmedabad,2023-07-12,23500.00,Outstanding,Active
+EMP0190,Aarav Kumar,Male,29,Admin,Admin Executive,Lucknow,2016-10-02,18000.00,Good,Active
+EMP0191,Pooja Patel,Female,49,HR,Recruiter,Jaipur,2020-02-28,22500.00,Average,Active
+EMP0192,Meera Kumar,Male,41,Operations,Supply Chain Executive,Delhi,2023-04-14,40000.00,Average,Active
+EMP0193,Aarav Kumar,Male,56,Admin,Facilities Coordinator,Mumbai,2017-04-27,27500.00,Average,Active
+EMP0194,Amit Khan,Female,33,Marketing,Marketing Manager,Pune,2017-05-17,19000.00,Good,Active
+EMP0195,Rahul Yadav,Female,43,IT,System Administrator,Bengaluru,2023-12-16,44000.00,Excellent,Active
+EMP0196,Karan Kumar,Female,53,Finance,Finance Executive,Hyderabad,2018-07-07,42500.00,Excellent,Inactive
+EMP0197,Suresh Yadav,Male,56,HR,HR Manager,Chennai,2022-06-02,18000.00,Average,Active
+EMP0198,Aisha Singh,Male,46,IT,System Administrator,Kolkata,2024-01-15,43500.00,Outstanding,Active
+EMP0199,Meera Singh,Female,25,Finance,Finance Executive,Ahmedabad,2021-01-17,38500.00,Outstanding,Active
+EMP0200,Rohan Jain,Female,48,Finance,Financial Analyst,Lucknow,2021-08-21,24000.00,Excellent,Active
+EMP0201,Karan Kumar,Male,35,Finance,Finance Executive,Jaipur,2019-11-18,42000.00,Average,Active
+EMP0202,Amit Jain,Female,40,Marketing,Digital Marketing Specialist,Delhi,2022-11-21,40500.00,Excellent,Active
+EMP0203,Meera Khan,Male,42,Finance,Financial Analyst,Mumbai,2025-06-13,50500.00,Excellent,Active
+EMP0204,Aditya Sharma,Male,57,Marketing,Digital Marketing Specialist,Pune,2020-09-02,46500.00,Excellent,Active
+EMP0205,Karan Yadav,Female,40,Sales,Sales Associate,Bengaluru,2021-01-31,18000.00,Excellent,Active
+EMP0206,Kavya Patel,Male,34,Admin,Facilities Coordinator,Hyderabad,2019-10-25,18000.00,Good,Active
+EMP0207,Pooja Kumar,Female,24,Finance,Financial Analyst,Chennai,2018-09-04,39000.00,Good,Active
+EMP0208,Riya Yadav,Female,33,Sales,Sales Executive,Kolkata,2016-06-18,33000.00,Average,Active
+EMP0209,Aditya Khan,Male,28,Marketing,Marketing Executive,Ahmedabad,2020-11-21,36500.00,Outstanding,Active
+EMP0210,Amit Sharma,Male,37,IT,Data Analyst,Lucknow,2020-05-02,49000.00,Good,Active
+EMP0211,Raj Mehta,Male,52,Customer Support,Support Manager,Jaipur,2018-10-10,18000.00,Outstanding,Active
+EMP0212,Shivani Verma,Female,29,Operations,Process Associate,Delhi,2016-05-20,41000.00,Outstanding,Active
+EMP0213,Rohan Gupta,Male,24,HR,HR Executive,Mumbai,2024-07-09,24500.00,Average,Active
+EMP0214,Kavya Singh,Female,30,Customer Support,Customer Service Representative,Pune,2023-12-23,33000.00,Good,Active
+EMP0215,Pooja Sharma,Female,50,Finance,Accounts Manager,Bengaluru,2017-10-14,36500.00,Good,Active
+EMP0216,Aisha Verma,Female,37,Admin,Administrative Officer,Hyderabad,2018-12-22,25000.00,Excellent,Active
+EMP0217,Aditya Mehta,Male,36,IT,IT Support,Chennai,2023-05-25,51500.00,Average,Active
+EMP0218,Sneha Singh,Female,42,Sales,Business Development Executive,Kolkata,2022-03-13,38000.00,Excellent,Active
+EMP0219,Suresh Yadav,Male,52,Finance,Accountant,Ahmedabad,2025-06-20,30500.00,Average,Active
+EMP0220,Arjun Khan,Male,28,Operations,Operations Manager,Lucknow,2020-06-16,31000.00,Outstanding,Active
+EMP0221,Riya Sharma,Female,23,Admin,Admin Executive,Jaipur,2022-05-15,25500.00,Average,Active
+EMP0222,Karan Kumar,Male,33,IT,Software Engineer,Delhi,2021-04-02,44000.00,Excellent,Active
+EMP0223,Pooja Mehta,Female,56,Customer Support,Team Lead,Mumbai,2023-08-10,33000.00,Outstanding,Active
+EMP0224,Aarav Singh,Male,50,Sales,Sales Manager,Pune,2020-03-12,26500.00,Good,Active
+EMP0225,Anjali Gupta,Female,39,HR,Recruiter,Bengaluru,2022-01-20,42000.00,Excellent,Active
+EMP0226,Rahul Jain,Male,35,Marketing,Content Executive,Hyderabad,2019-03-03,36500.00,Average,Active
+EMP0227,Priya Singh,Female,32,Finance,Financial Analyst,Chennai,2021-09-14,37500.00,Outstanding,Active
+EMP0228,Amit Verma,Male,44,Operations,Supply Chain Executive,Kolkata,2017-11-19,31500.00,Good,Active
+EMP0229,Neha Patel,Female,29,Customer Support,Customer Support Executive,Ahmedabad,2024-02-06,28000.00,Excellent,Active
+EMP0230,Suresh Sharma,Male,54,Admin,Facilities Coordinator,Lucknow,2018-05-27,20500.00,Average,Active
+EMP0231,Meera Yadav,Female,38,Marketing,Digital Marketing Specialist,Jaipur,2023-06-17,32000.00,Good,Active
+EMP0232,Raj Singh,Male,26,Sales,Sales Executive,Delhi,2024-09-09,39500.00,Outstanding,Active
+EMP0233,Kavya Gupta,Female,47,HR,Payroll Executive,Mumbai,2016-11-26,26000.00,Average,Active
+EMP0234,Rohan Patel,Male,31,IT,System Administrator,Pune,2022-08-05,45500.00,Excellent,Active
+EMP0235,Aisha Khan,Female,27,Finance,Finance Executive,Bengaluru,2021-01-17,34000.00,Good,Active
+EMP0236,Vivaan Mehta,Male,40,Operations,Operations Executive,Hyderabad,2019-08-14,29500.00,Outstanding,Active
+EMP0237,Pooja Jain,Female,45,Customer Support,Support Manager,Chennai,2023-03-18,31000.00,Excellent,Active
+EMP0238,Arjun Sharma,Male,36,Admin,Administrative Officer,Kolkata,2020-10-27,27500.00,Good,Active
+EMP0239,Sneha Verma,Female,28,Marketing,Marketing Executive,Ahmedabad,2024-05-10,35500.00,Outstanding,Active
+EMP0240,Aarav Kumar,Male,42,Sales,Sales Associate,Lucknow,2018-02-22,30000.00,Average,Active
+EMP0241,Neha Singh,Female,34,Finance,Accounts Manager,Jaipur,2022-07-16,40500.00,Excellent,Active
+EMP0242,Aditya Gupta,Male,51,Operations,Process Associate,Delhi,2017-03-28,29000.00,Good,Active
+EMP0243,Riya Patel,Female,25,HR,HR Executive,Mumbai,2025-01-14,23500.00,Outstanding,Active
+EMP0244,Karan Sharma,Male,39,IT,Data Analyst,Pune,2021-12-01,49500.00,Excellent,Active
+EMP0245,Meera Gupta,Female,46,Customer Support,Team Lead,Bengaluru,2019-09-08,27000.00,Average,Active
+EMP0246,Rahul Singh,Male,30,Sales,Business Development Executive,Hyderabad,2023-02-19,38000.00,Good,Active
+EMP0247,Anjali Verma,Female,33,Marketing,Content Executive,Chennai,2020-04-07,31500.00,Excellent,Active
+EMP0248,Suresh Patel,Male,55,Admin,Office Assistant,Kolkata,2018-08-16,18500.00,Good,Active
+EMP0249,Kavya Jain,Female,41,Finance,Accountant,Ahmedabad,2022-12-04,36000.00,Outstanding,Active
+EMP0250,Rohan Mehta,Male,27,IT,Software Engineer,Lucknow,2024-06-28,53000.00,Excellent,Active
+EMP0251,Pooja Singh,Female,36,HR,Recruiter,Jaipur,2021-10-11,31000.00,Good,Active
+EMP0252,Amit Kumar,Male,48,Operations,Operations Manager,Delhi,2017-06-24,35000.00,Average,Active
+EMP0253,Sneha Gupta,Female,29,Customer Support,Customer Service Representative,Mumbai,2023-04-15,26000.00,Excellent,Active
+EMP0254,Arjun Patel,Male,43,Sales,Sales Manager,Pune,2019-01-06,47000.00,Outstanding,Active
+EMP0255,Aisha Singh,Female,24,Marketing,Digital Marketing Specialist,Bengaluru,2025-02-23,32500.00,Good,Active
+EMP0256,Raj Verma,Male,50,Finance,Finance Executive,Hyderabad,2018-04-29,38500.00,Average,Active
+EMP0257,Kavya Yadav,Female,37,Admin,Admin Executive,Chennai,2022-09-17,24500.00,Excellent,Active
+EMP0258,Vivaan Sharma,Male,32,IT,IT Support,Kolkata,2020-11-04,41000.00,Good,Active
+EMP0259,Neha Kumar,Female,45,HR,HR Manager,Ahmedabad,2017-12-12,46000.00,Outstanding,Active
+EMP0260,Suresh Mehta,Male,53,Operations,Supply Chain Executive,Lucknow,2019-06-08,32500.00,Average,Active
+EMP0261,Meera Singh,Female,31,Finance,Financial Analyst,Jaipur,2023-07-25,43000.00,Excellent,Active
+EMP0262,Aditya Jain,Male,28,Sales,Sales Executive,Delhi,2021-02-11,34500.00,Good,Active
+EMP0263,Pooja Khan,Female,39,Customer Support,Customer Support Executive,Mumbai,2022-06-30,28500.00,Average,Active
+EMP0264,Rahul Gupta,Male,46,Marketing,Marketing Manager,Pune,2018-01-25,49500.00,Outstanding,Active
+EMP0265,Riya Verma,Female,26,Admin,Facilities Coordinator,Bengaluru,2024-03-06,22000.00,Good,Active
+EMP0266,Aarav Jain,Male,35,IT,System Administrator,Hyderabad,2020-09-22,46000.00,Excellent,Active
+EMP0267,Anjali Singh,Female,44,Finance,Accounts Manager,Chennai,2019-05-19,44000.00,Good,Active
+EMP0268,Karan Patel,Male,29,Sales,Sales Associate,Kolkata,2023-11-08,30000.00,Outstanding,Active
+EMP0269,Sneha Sharma,Female,52,HR,HR Manager,Ahmedabad,2017-08-03,39500.00,Excellent,Active
+EMP0270,Rohan Khan,Male,33,Operations,Operations Executive,Lucknow,2021-06-12,28500.00,Good,Active
+EMP0271,Priya Mehta,Female,41,Customer Support,Support Manager,Jaipur,2018-11-15,35000.00,Average,Active
+EMP0272,Amit Singh,Male,27,Marketing,Marketing Executive,Delhi,2024-01-28,36000.00,Excellent,Active
+EMP0273,Shivani Jain,Female,38,Admin,Administrative Officer,Mumbai,2020-08-20,29000.00,Good,Active
+EMP0274,Arjun Yadav,Male,47,Finance,Accountant,Pune,2016-09-07,34500.00,Outstanding,Active
+EMP0275,Meera Sharma,Female,30,HR,Payroll Executive,Bengaluru,2023-02-12,33000.00,Excellent,Active
+EMP0276,Karan Verma,Male,54,Operations,Supply Chain Executive,Hyderabad,2017-05-18,30000.00,Average,Active
+EMP0277,Pooja Gupta,Female,25,Sales,Sales Executive,Chennai,2025-04-01,36500.00,Good,Active
+EMP0278,Aditya Kumar,Male,40,IT,Data Analyst,Kolkata,2021-07-24,48000.00,Excellent,Active
+EMP0279,Riya Khan,Female,35,Marketing,Content Executive,Ahmedabad,2019-02-14,32500.00,Average,Active
+EMP0280,Aarav Patel,Male,49,Finance,Finance Executive,Lucknow,2018-10-06,41000.00,Outstanding,Active
+EMP0281,Kavya Mehta,Female,28,Customer Support,Customer Service Representative,Jaipur,2024-08-19,25000.00,Good,Active
+EMP0282,Rahul Sharma,Male,43,Sales,Business Development Executive,Delhi,2020-12-28,39000.00,Excellent,Active
+EMP0283,Sneha Patel,Female,37,HR,HR Executive,Mumbai,2022-05-09,29500.00,Average,Active
+EMP0284,Raj Gupta,Male,56,Admin,Administrative Officer,Pune,2017-01-14,27000.00,Good,Active
+EMP0285,Meera Jain,Female,32,IT,Software Engineer,Bengaluru,2023-09-02,57000.00,Outstanding,Active
+EMP0286,Suresh Khan,Male,45,Operations,Process Associate,Hyderabad,2018-03-17,30500.00,Excellent,Active
+EMP0287,Anjali Patel,Female,26,Finance,Financial Analyst,Chennai,2024-04-23,39500.00,Good,Active
+EMP0288,Rohan Singh,Male,39,Customer Support,Team Lead,Kolkata,2019-07-05,34000.00,Average,Active
+EMP0289,Priya Yadav,Female,48,Marketing,Digital Marketing Specialist,Ahmedabad,2017-11-29,36000.00,Excellent,Active
+EMP0290,Amit Verma,Male,31,Sales,Sales Associate,Lucknow,2022-10-14,28500.00,Outstanding,Active
+EMP0291,Shivani Gupta,Female,42,HR,Recruiter,Jaipur,2020-01-07,33500.00,Good,Active
+EMP0292,Arjun Mehta,Male,27,IT,IT Support,Delhi,2023-06-26,42000.00,Excellent,Active
+EMP0293,Kavya Sharma,Female,50,Finance,Accounts Manager,Mumbai,2016-08-12,45500.00,Average,Active
+EMP0294,Vivaan Kumar,Male,36,Operations,Operations Manager,Pune,2021-03-21,37000.00,Good,Active
+EMP0295,Aisha Mehta,Female,29,Marketing,Marketing Executive,Bengaluru,2024-07-18,35000.00,Outstanding,Active
+EMP0296,Suresh Singh,Male,44,Admin,Office Assistant,Hyderabad,2018-06-09,21000.00,Good,Active
+EMP0297,Pooja Verma,Female,34,Customer Support,Support Manager,Chennai,2022-02-26,33000.00,Excellent,Active
+EMP0298,Aditya Patel,Male,51,Sales,Sales Manager,Kolkata,2017-09-13,46500.00,Average,Active
+EMP0299,Neha Jain,Female,25,HR,HR Executive,Ahmedabad,2025-01-22,26000.00,Good,Active
+EMP0300,Rohan Yadav,Male,38,Finance,Accountant,Lucknow,2020-05-14,38500.00,Excellent,Active
+EMP0301,Aisha Khan,Female,41,IT,Data Analyst,Jaipur,2017-04-27,32000.00,Good,Active
+EMP0302,Pooja Kumar,Male,29,Customer Support,Support Manager,Delhi,2022-06-12,19000.00,Outstanding,Active
+EMP0303,Suresh Verma,Male,26,Admin,Office Assistant,Mumbai,2025-05-28,25000.00,Good,Active
+EMP0304,Karan Jain,Male,43,Sales,Sales Associate,Pune,2017-11-18,34000.00,Average,Active
+EMP0305,Shivani Yadav,Female,51,Marketing,Marketing Manager,Bengaluru,2024-10-17,30500.00,Excellent,Active
+EMP0306,Anjali Khan,Female,22,Customer Support,Customer Service Representative,Hyderabad,2019-04-09,30500.00,Good,Active
+EMP0307,Raj Verma,Male,39,Finance,Accounts Manager,Chennai,2021-10-10,27000.00,Outstanding,Active
+EMP0308,Neha Gupta,Female,37,Operations,Operations Executive,Kolkata,2019-11-03,26000.00,Average,Active
+EMP0309,Aarav Mehta,Male,28,HR,HR Executive,Ahmedabad,2020-09-23,40500.00,Excellent,Active
+EMP0310,Riya Singh,Female,33,IT,Software Engineer,Lucknow,2019-08-15,47000.00,Good,Active
+EMP0311,Amit Kumar,Male,46,Operations,Supply Chain Executive,Jaipur,2020-07-08,33000.00,Average,Active
+EMP0312,Meera Sharma,Female,31,Sales,Sales Executive,Delhi,2021-05-13,31500.00,Excellent,Active
+EMP0313,Arjun Patel,Male,55,Admin,Administrative Officer,Mumbai,2017-03-10,23000.00,Outstanding,Active
+EMP0314,Priya Jain,Female,42,Finance,Financial Analyst,Pune,2023-06-07,47500.00,Good,Active
+EMP0315,Rohan Singh,Male,25,Marketing,Digital Marketing Specialist,Bengaluru,2022-02-24,28500.00,Average,Active
+EMP0316,Kavya Verma,Female,48,Customer Support,Team Lead,Hyderabad,2018-09-16,25000.00,Excellent,Active
+EMP0317,Aditya Gupta,Male,34,IT,System Administrator,Chennai,2021-11-28,49000.00,Good,Active
+EMP0318,Sneha Patel,Female,27,HR,Recruiter,Kolkata,2020-01-22,23000.00,Outstanding,Active
+EMP0319,Suresh Kumar,Male,52,Finance,Finance Executive,Ahmedabad,2017-06-15,35000.00,Average,Active
+EMP0320,Aisha Singh,Female,30,Admin,Admin Executive,Lucknow,2024-01-10,18000.00,Good,Active
+EMP0321,Rahul Sharma,Male,44,Sales,Sales Manager,Jaipur,2019-04-18,41500.00,Excellent,Active
+EMP0322,Pooja Yadav,Female,38,Operations,Process Associate,Delhi,2023-03-04,31500.00,Outstanding,Active
+EMP0323,Karan Mehta,Male,29,Customer Support,Customer Support Executive,Mumbai,2021-09-25,24500.00,Good,Active
+EMP0324,Shivani Jain,Female,54,Finance,Accountant,Pune,2018-05-19,40000.00,Average,Active
+EMP0325,Arjun Sharma,Male,36,IT,Data Analyst,Bengaluru,2022-10-08,45500.00,Excellent,Active
+EMP0326,Riya Mehta,Female,24,Marketing,Content Executive,Hyderabad,2025-03-14,32500.00,Good,Active
+EMP0327,Raj Patel,Male,41,Operations,Operations Manager,Chennai,2020-08-27,36500.00,Outstanding,Active
+EMP0328,Neha Singh,Female,32,HR,Payroll Executive,Kolkata,2023-01-05,27000.00,Excellent,Active
+EMP0329,Vivaan Gupta,Male,49,Sales,Business Development Executive,Ahmedabad,2018-07-29,36000.00,Average,Active
+EMP0330,Kavya Sharma,Female,26,Admin,Facilities Coordinator,Lucknow,2024-04-11,23000.00,Good,Active
+EMP0331,Amit Yadav,Male,40,Finance,Accounts Manager,Jaipur,2019-10-20,42000.00,Excellent,Active
+EMP0332,Meera Verma,Female,35,Customer Support,Support Manager,Delhi,2022-08-02,30000.00,Outstanding,Active
+EMP0333,Aditya Khan,Male,23,Marketing,Marketing Executive,Mumbai,2021-02-17,29000.00,Good,Active
+EMP0334,Pooja Patel,Female,45,HR,HR Manager,Pune,2017-12-09,45000.00,Average,Active
+EMP0335,Rohan Kumar,Male,38,IT,IT Support,Bengaluru,2023-05-23,41000.00,Excellent,Active
+EMP0336,Anjali Gupta,Female,28,Sales,Sales Associate,Hyderabad,2020-06-18,28500.00,Good,Active
+EMP0337,Aarav Jain,Male,53,Operations,Supply Chain Executive,Chennai,2018-02-11,31500.00,Outstanding,Active
+EMP0338,Sneha Mehta,Female,33,Finance,Financial Analyst,Kolkata,2022-04-29,45000.00,Excellent,Active
+EMP0339,Suresh Sharma,Male,47,Admin,Administrative Officer,Ahmedabad,2019-08-06,29000.00,Average,Active
+EMP0340,Kavya Singh,Female,25,Customer Support,Customer Service Representative,Lucknow,2024-07-03,23500.00,Good,Active
+EMP0341,Rahul Verma,Male,42,Sales,Sales Executive,Jaipur,2017-09-24,37500.00,Excellent,Active
+EMP0342,Priya Gupta,Female,37,Marketing,Digital Marketing Specialist,Delhi,2021-11-16,35000.00,Good,Active
+EMP0343,Karan Sharma,Male,31,IT,Software Engineer,Mumbai,2023-03-22,49500.00,Outstanding,Active
+EMP0344,Aisha Patel,Female,49,HR,Recruiter,Pune,2018-06-30,31000.00,Average,Active
+EMP0345,Arjun Gupta,Male,27,Finance,Finance Executive,Bengaluru,2024-05-09,38500.00,Excellent,Active
+EMP0346,Riya Sharma,Female,39,Operations,Operations Executive,Hyderabad,2020-10-15,32000.00,Good,Active
+EMP0347,Suresh Khan,Male,56,Admin,Office Assistant,Chennai,2017-04-26,20000.00,Average,Active
+EMP0348,Neha Jain,Female,29,Customer Support,Team Lead,Kolkata,2022-09-12,33500.00,Outstanding,Active
+EMP0349,Vivaan Singh,Male,44,Sales,Sales Manager,Ahmedabad,2019-01-31,46500.00,Excellent,Active
+EMP0350,Meera Patel,Female,34,Marketing,Marketing Manager,Lucknow,2023-08-25,43000.00,Good,Active
+EMP0351,Amit Verma,Male,48,Finance,Accountant,Jaipur,2018-03-17,36000.00,Average,Active
+EMP0352,Kavya Yadav,Female,22,HR,HR Executive,Delhi,2025-02-08,25000.00,Excellent,Active
+EMP0353,Raj Gupta,Male,36,IT,Data Analyst,Mumbai,2021-06-14,47000.00,Outstanding,Active
+EMP0354,Anjali Singh,Female,43,Customer Support,Support Manager,Pune,2017-07-21,31000.00,Good,Active
+EMP0355,Rohan Mehta,Male,28,Operations,Process Associate,Bengaluru,2024-03-15,27500.00,Excellent,Active
+EMP0356,Pooja Sharma,Female,51,Admin,Administrative Officer,Hyderabad,2018-11-07,28000.00,Average,Active
+EMP0357,Aditya Patel,Male,33,Sales,Business Development Executive,Chennai,2022-05-18,37000.00,Outstanding,Active
+EMP0358,Shivani Gupta,Female,41,Finance,Accounts Manager,Kolkata,2019-09-29,44000.00,Good,Active
+EMP0359,Aarav Kumar,Male,24,Marketing,Content Executive,Ahmedabad,2025-06-20,30000.00,Excellent,Active
+EMP0360,Sneha Khan,Female,46,HR,HR Manager,Lucknow,2017-05-05,47000.00,Outstanding,Active
+EMP0361,Karan Verma,Male,30,IT,IT Support,Jaipur,2023-01-26,39000.00,Good,Active
+EMP0362,Priya Patel,Female,35,Sales,Sales Associate,Delhi,2020-09-14,31000.00,Average,Active
+EMP0363,Suresh Yadav,Male,50,Operations,Operations Manager,Mumbai,2018-07-11,38500.00,Excellent,Active
+EMP0364,Aisha Verma,Female,27,Customer Support,Customer Support Executive,Pune,2024-02-19,26000.00,Good,Active
+EMP0365,Rahul Mehta,Male,45,Finance,Financial Analyst,Bengaluru,2019-04-28,45500.00,Outstanding,Active
+EMP0366,Meera Singh,Female,31,Marketing,Digital Marketing Specialist,Hyderabad,2022-11-15,37000.00,Excellent,Active
+EMP0367,Arjun Jain,Male,52,Admin,Facilities Coordinator,Chennai,2017-08-22,25000.00,Average,Active
+EMP0368,Riya Gupta,Female,38,HR,Payroll Executive,Kolkata,2021-03-17,33000.00,Good,Active
+EMP0369,Karan Singh,Male,26,Sales,Sales Executive,Ahmedabad,2025-01-30,35000.00,Outstanding,Active
+EMP0370,Pooja Jain,Female,47,Finance,Finance Executive,Lucknow,2018-10-09,39000.00,Excellent,Active
+EMP0371,Vivaan Sharma,Male,32,IT,System Administrator,Jaipur,2022-06-05,46500.00,Good,Active
+EMP0372,Anjali Verma,Female,44,Operations,Supply Chain Executive,Delhi,2017-02-14,33500.00,Average,Active
+EMP0373,Raj Khan,Male,29,Customer Support,Team Lead,Mumbai,2023-09-07,32000.00,Excellent,Active
+EMP0374,Kavya Patel,Female,40,Marketing,Marketing Executive,Pune,2019-06-25,35500.00,Outstanding,Active
+EMP0375,Amit Sharma,Male,55,Admin,Admin Executive,Bengaluru,2016-12-18,24000.00,Good,Active
+EMP0376,Neha Mehta,Female,23,HR,Recruiter,Hyderabad,2024-08-12,26500.00,Excellent,Active
+EMP0377,Rohan Verma,Male,37,Finance,Accounts Manager,Chennai,2020-02-27,43000.00,Average,Active
+EMP0378,Shivani Singh,Female,49,Customer Support,Support Manager,Kolkata,2018-05-21,30500.00,Good,Active
+EMP0379,Aditya Yadav,Male,28,Sales,Business Development Executive,Ahmedabad,2024-04-06,36500.00,Outstanding,Active
+EMP0380,Meera Gupta,Female,42,Marketing,Content Executive,Lucknow,2019-10-18,33000.00,Excellent,Active
+EMP0381,Suresh Patel,Male,51,Operations,Operations Executive,Jaipur,2017-03-26,31500.00,Average,Active
+EMP0382,Aisha Singh,Female,30,IT,Software Engineer,Delhi,2022-12-03,52000.00,Good,Active
+EMP0383,Karan Gupta,Male,43,Finance,Accountant,Mumbai,2018-01-29,35000.00,Outstanding,Active
+EMP0384,Priya Sharma,Female,34,Admin,Administrative Officer,Pune,2021-08-16,29000.00,Excellent,Active
+EMP0385,Rahul Singh,Male,25,Customer Support,Customer Service Representative,Bengaluru,2025-03-09,24000.00,Good,Active
+EMP0386,Pooja Mehta,Female,46,HR,HR Manager,Hyderabad,2017-11-25,46000.00,Average,Active
+EMP0387,Arjun Kumar,Male,39,Sales,Sales Manager,Chennai,2020-05-20,44500.00,Outstanding,Active
+EMP0388,Sneha Jain,Female,27,Marketing,Digital Marketing Specialist,Kolkata,2024-07-12,34000.00,Excellent,Active
+EMP0389,Raj Verma,Male,48,Operations,Process Associate,Ahmedabad,2019-02-06,30000.00,Good,Active
+EMP0390,Kavya Khan,Female,33,Finance,Financial Analyst,Lucknow,2022-10-22,43500.00,Outstanding,Active
+EMP0391,Aarav Patel,Male,41,IT,Data Analyst,Jaipur,2021-04-13,49000.00,Excellent,Active
+EMP0392,Riya Sharma,Female,29,Sales,Sales Executive,Delhi,2023-05-27,35500.00,Good,Active
+EMP0393,Suresh Gupta,Male,54,Admin,Office Assistant,Mumbai,2017-09-04,20500.00,Average,Active
+EMP0394,Anjali Jain,Female,36,Customer Support,Customer Support Executive,Pune,2022-03-11,28500.00,Excellent,Active
+EMP0395,Karan Mehta,Male,31,Finance,Finance Executive,Bengaluru,2020-07-26,40000.00,Outstanding,Active
+EMP0396,Meera Khan,Female,45,HR,HR Executive,Hyderabad,2018-08-15,30000.00,Good,Active
+EMP0397,Aditya Sharma,Male,26,Marketing,Marketing Manager,Chennai,2024-01-19,41000.00,Excellent,Active
+EMP0398,Pooja Verma,Female,50,Operations,Supply Chain Executive,Kolkata,2017-06-28,32500.00,Average,Active
+EMP0399,Rohan Jain,Male,38,Sales,Sales Associate,Ahmedabad,2021-09-30,32000.00,Outstanding,Active
+EMP0400,Neha Patel,Female,28,Customer Support,Team Lead,Lucknow,2023-02-14,34000.00,Excellent,Active
+EMP0401,Amit Verma,Male,21,Customer Support,Customer Support Executive,Jaipur,2021-04-25,18000.00,Good,Active
+EMP0402,Suresh Verma,Male,48,Marketing,Content Executive,Delhi,2026-01-15,26500.00,Outstanding,Active
+EMP0403,Raj Gupta,Female,54,Admin,Administrative Officer,Mumbai,2025-03-30,25000.00,Outstanding,Active
+EMP0404,Riya Mehta,Male,27,Marketing,Content Executive,Pune,2021-05-27,34500.00,Excellent,Active
+EMP0405,Priya Verma,Female,33,Marketing,Content Executive,Bengaluru,2017-09-06,28500.00,Good,Active
+EMP0406,Priya Kumar,Female,39,HR,Payroll Executive,Hyderabad,2018-11-28,35000.00,Outstanding,Active
+EMP0407,Meera Khan,Male,35,Sales,Business Development Executive,Chennai,2023-09-12,19000.00,Outstanding,Active
+EMP0408,Riya Verma,Female,39,Finance,Financial Analyst,Kolkata,2017-02-03,36000.00,Outstanding,Active
+EMP0409,Shivani Kumar,Female,35,Operations,Operations Executive,Ahmedabad,2019-12-26,31000.00,Good,Active
+EMP0410,Anjali Mehta,Female,58,Operations,Process Associate,Lucknow,2019-04-19,36000.00,Outstanding,Active
+EMP0411,Vivaan Khan,Female,33,IT,IT Support,Jaipur,2021-08-11,50500.00,Excellent,Active
+EMP0412,Riya Verma,Female,30,Customer Support,Customer Support Executive,Delhi,2017-07-16,18000.00,Good,Active
+EMP0413,Rohan Mehta,Female,52,Finance,Accountant,Mumbai,2019-09-24,19500.00,Good,Active
+EMP0414,Aarav Yadav,Male,31,Marketing,Digital Marketing Specialist,Pune,2022-06-18,49000.00,Good,Active
+EMP0415,Rohan Khan,Male,46,Customer Support,Support Manager,Bengaluru,2020-10-23,29500.00,Outstanding,Active
+EMP0416,Shivani Gupta,Male,41,Operations,Operations Executive,Hyderabad,2024-06-27,21000.00,Good,Active
+EMP0417,Suresh Gupta,Male,29,Operations,Process Associate,Chennai,2017-02-24,48500.00,Outstanding,Active
+EMP0418,Rahul Singh,Female,39,HR,HR Manager,Kolkata,2021-02-10,29000.00,Average,Active
+EMP0419,Priya Yadav,Male,31,Operations,Operations Manager,Ahmedabad,2026-03-03,44000.00,Outstanding,Active
+EMP0420,Rohan Gupta,Male,28,HR,Recruiter,Lucknow,2020-02-10,28500.00,Excellent,Active
+EMP0421,Shivani Khan,Female,27,HR,HR Executive,Jaipur,2023-05-01,52500.00,Excellent,Active
+EMP0422,Anjali Yadav,Male,56,Customer Support,Customer Support Executive,Delhi,2018-11-01,47000.00,Outstanding,Active
+EMP0423,Aarav Verma,Male,54,Customer Support,Customer Support Executive,Mumbai,2019-01-10,23000.00,Good,Active
+EMP0424,Riya Khan,Male,28,IT,System Administrator,Pune,2024-10-19,53500.00,Excellent,Active
+EMP0425,Raj Jain,Male,47,Sales,Business Development Executive,Bengaluru,2019-04-24,39500.00,Good,Active
+EMP0426,Amit Yadav,Female,21,Operations,Operations Manager,Hyderabad,2016-02-22,46000.00,Excellent,Active
+EMP0427,Rohan Singh,Female,37,IT,Software Engineer,Chennai,2023-03-24,30000.00,Good,Active
+EMP0428,Raj Yadav,Female,32,HR,HR Executive,Kolkata,2025-10-20,36000.00,Excellent,Active
+EMP0429,Priya Patel,Female,23,IT,Software Engineer,Ahmedabad,2016-02-09,54500.00,Good,Active
+EMP0430,Priya Mehta,Male,26,Admin,Administrative Officer,Lucknow,2020-03-06,18000.00,Average,Active
+EMP0431,Neha Yadav,Female,51,Marketing,Marketing Manager,Jaipur,2024-12-20,19500.00,Outstanding,Active
+EMP0432,Arjun Kumar,Male,27,HR,Recruiter,Delhi,2020-08-31,18000.00,Outstanding,Active
+EMP0433,Rahul Khan,Female,22,Customer Support,Team Lead,Mumbai,2025-09-03,22500.00,Good,Active
+EMP0434,Arjun Patel,Female,25,Admin,Admin Executive,Pune,2018-12-07,33500.00,Average,Active
+EMP0435,Priya Jain,Male,36,IT,IT Support,Bengaluru,2021-05-27,60000.00,Average,Active
+EMP0436,Rohan Jain,Female,31,HR,HR Executive,Hyderabad,2021-09-01,28500.00,Outstanding,Active
+EMP0437,Aditya Yadav,Male,42,Operations,Operations Manager,Chennai,2019-02-13,49500.00,Excellent,Active
+EMP0438,Neha Gupta,Female,49,IT,IT Support,Kolkata,2024-12-25,25000.00,Outstanding,Active
+EMP0439,Kavya Mehta,Female,22,IT,IT Support,Ahmedabad,2017-02-24,21500.00,Outstanding,Active
+EMP0440,Aditya Khan,Male,50,Marketing,Digital Marketing Specialist,Lucknow,2019-10-28,33000.00,Average,Active
+EMP0441,Kavya Mehta,Male,49,Admin,Administrative Officer,Jaipur,2017-04-12,29500.00,Excellent,Active
+EMP0442,Aarav Mehta,Male,56,Operations,Process Associate,Delhi,2021-11-08,29500.00,Average,Active
+EMP0443,Rahul Yadav,Male,27,Finance,Accounts Manager,Mumbai,2018-11-07,18000.00,Good,Active
+EMP0444,Amit Yadav,Female,27,Sales,Business Development Executive,Pune,2024-06-28,30500.00,Outstanding,Active
+EMP0445,Kavya Yadav,Male,21,Finance,Accounts Manager,Bengaluru,2021-12-12,22000.00,Excellent,Active
+EMP0446,Meera Yadav,Female,29,Finance,Financial Analyst,Hyderabad,2017-02-28,46000.00,Outstanding,Active
+EMP0447,Riya Patel,Female,38,Customer Support,Customer Service Representative,Chennai,2020-06-17,30000.00,Average,Inactive
+EMP0448,Rohan Kumar,Female,56,Customer Support,Team Lead,Kolkata,2025-08-26,18000.00,Average,Active
+EMP0449,Amit Gupta,Male,29,Marketing,Content Executive,Ahmedabad,2023-12-19,27500.00,Good,Active
+EMP0450,Arjun Mehta,Female,55,Admin,Facilities Coordinator,Lucknow,2019-03-17,18000.00,Outstanding,Active
+EMP0451,Aarav Patel,Male,24,Finance,Accountant,Jaipur,2018-03-29,37000.00,Average,Active
+EMP0452,Karan Verma,Male,39,Finance,Accountant,Delhi,2018-04-15,49000.00,Excellent,Active
+EMP0453,Arjun Khan,Female,36,Sales,Sales Associate,Mumbai,2021-09-23,20000.00,Average,Active
+EMP0454,Neha Patel,Male,56,Customer Support,Team Lead,Pune,2016-08-08,32000.00,Excellent,Active
+EMP0455,Aisha Yadav,Male,58,Sales,Business Development Executive,Bengaluru,2022-02-16,25500.00,Good,Active
+EMP0456,Karan Yadav,Male,32,Finance,Accountant,Hyderabad,2017-12-12,28000.00,Excellent,Active
+EMP0457,Raj Jain,Female,31,Marketing,Digital Marketing Specialist,Chennai,2022-07-20,32500.00,Average,Active
+EMP0458,Rohan Sharma,Female,24,Finance,Finance Executive,Kolkata,2024-09-03,25500.00,Average,Active
+EMP0459,Aditya Mehta,Female,54,Sales,Sales Manager,Ahmedabad,2016-10-06,25000.00,Good,Active
+EMP0460,Aditya Mehta,Female,42,Sales,Sales Manager,Lucknow,2019-09-18,18000.00,Average,Active
+EMP0461,Shivani Sharma,Female,49,IT,System Administrator,Jaipur,2018-09-11,65500.00,Good,Inactive
+EMP0462,Neha Singh,Female,55,Customer Support,Team Lead,Delhi,2024-02-13,26000.00,Average,Active
+EMP0463,Riya Jain,Female,23,Admin,Facilities Coordinator,Mumbai,2019-04-29,18000.00,Good,Active
+EMP0464,Arjun Kumar,Male,34,HR,HR Executive,Pune,2023-07-08,30500.00,Good,Active
+EMP0465,Arjun Gupta,Female,30,Customer Support,Customer Support Executive,Bengaluru,2016-04-07,24500.00,Outstanding,Active
+EMP0466,Aditya Singh,Male,37,HR,Recruiter,Hyderabad,2022-04-04,25000.00,Excellent,Active
+EMP0467,Raj Patel,Male,46,Customer Support,Support Manager,Chennai,2020-11-08,33000.00,Average,Active
+EMP0468,Shivani Sharma,Male,25,IT,Software Engineer,Kolkata,2020-01-05,51000.00,Excellent,Active
+EMP0469,Aisha Singh,Female,45,Marketing,Marketing Manager,Ahmedabad,2020-06-06,27500.00,Excellent,Active
+EMP0470,Rohan Patel,Male,40,Marketing,Digital Marketing Specialist,Lucknow,2023-08-06,27000.00,Average,Inactive
+EMP0471,Shivani Jain,Male,23,Finance,Accountant,Jaipur,2016-01-21,34500.00,Outstanding,Active
+EMP0472,Karan Gupta,Male,47,Operations,Operations Manager,Delhi,2026-02-26,18000.00,Good,Active
+EMP0473,Aisha Verma,Male,32,Sales,Sales Executive,Mumbai,2023-07-11,18000.00,Excellent,Active
+EMP0474,Shivani Singh,Female,37,Marketing,Marketing Executive,Pune,2017-02-06,50000.00,Good,Active
+EMP0475,Priya Mehta,Female,27,Finance,Financial Analyst,Bengaluru,2019-03-13,57500.00,Excellent,Active
+EMP0476,Sneha Yadav,Female,58,Operations,Process Associate,Hyderabad,2017-09-16,27000.00,Average,Active
+EMP0477,Rahul Sharma,Female,35,Operations,Operations Manager,Chennai,2023-12-27,36500.00,Outstanding,Active
+EMP0478,Rohan Mehta,Female,49,Admin,Facilities Coordinator,Kolkata,2020-01-09,28500.00,Average,Active
+EMP0479,Rahul Khan,Male,29,IT,System Administrator,Ahmedabad,2025-12-29,78500.00,Good,Active
+EMP0480,Aditya Sharma,Male,58,HR,Payroll Executive,Lucknow,2018-05-21,41000.00,Excellent,Active
+EMP0481,Rohan Mehta,Female,58,Customer Support,Customer Service Representative,Jaipur,2024-03-22,24000.00,Average,Active
+EMP0482,Neha Mehta,Male,31,HR,Recruiter,Delhi,2024-06-28,18000.00,Good,Active
+EMP0483,Meera Khan,Male,43,Finance,Accounts Manager,Mumbai,2016-06-14,18500.00,Good,Active
+EMP0484,Aditya Verma,Male,23,Operations,Operations Manager,Pune,2023-07-01,32000.00,Good,Active
+EMP0485,Neha Yadav,Female,23,Admin,Admin Executive,Bengaluru,2023-04-10,18000.00,Average,Active
+EMP0486,Raj Khan,Female,45,Finance,Accounts Manager,Hyderabad,2020-02-05,20500.00,Excellent,Active
+EMP0487,Suresh Jain,Female,43,Customer Support,Team Lead,Chennai,2021-06-17,18000.00,Outstanding,Active
+EMP0488,Riya Kumar,Male,35,Admin,Office Assistant,Kolkata,2016-11-11,18000.00,Average,Active
+EMP0489,Rahul Mehta,Male,47,IT,Data Analyst,Ahmedabad,2025-02-04,62000.00,Average,Active
+EMP0490,Sneha Yadav,Female,47,Sales,Sales Manager,Lucknow,2016-04-01,42500.00,Good,Active
+EMP0491,Rohan Jain,Male,24,HR,Recruiter,Jaipur,2017-11-12,27500.00,Average,Inactive
+EMP0492,Aisha Khan,Female,26,HR,HR Manager,Delhi,2018-06-06,45500.00,Outstanding,Active
+EMP0493,Sneha Kumar,Female,30,Sales,Sales Associate,Mumbai,2024-11-28,32500.00,Good,Active
+EMP0494,Rahul Mehta,Female,35,Admin,Admin Executive,Pune,2020-03-29,18000.00,Outstanding,Active
+EMP0495,Amit Jain,Male,27,Customer Support,Customer Service Representative,Bengaluru,2017-12-27,44000.00,Outstanding,Active
+EMP0496,Shivani Jain,Male,51,IT,Software Engineer,Hyderabad,2023-05-24,48000.00,Good,Active
+EMP0497,Anjali Jain,Male,23,Customer Support,Team Lead,Chennai,2023-10-28,18000.00,Outstanding,Active
+EMP0498,Neha Mehta,Female,29,IT,IT Support,Kolkata,2018-11-08,39500.00,Outstanding,Active
+EMP0499,Karan Khan,Male,33,Customer Support,Team Lead,Ahmedabad,2016-01-23,18000.00,Excellent,Active
+EMP0500,Riya Sharma,Male,41,Customer Support,Customer Service Representative,Lucknow,2020-08-01,18000.00,Average,Active
